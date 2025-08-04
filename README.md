@@ -1,1 +1,20 @@
-# teste-template-az-c31057df-70b9-4864-ac74-c99ea12890f3
+# teste-template-az
+
+## Descrição
+# Documentação da API
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
